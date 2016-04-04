@@ -1,4 +1,4 @@
 # hello-world
-Just another respiratory
+Just another Respiratory
 
 Hello this is Simran
